@@ -42,9 +42,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliraza-010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="75%" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliraza-010&theme=tokyonight&hide_border=true&border_radius=10" width="75%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza-010&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="50%" />
 </p>
 
 
