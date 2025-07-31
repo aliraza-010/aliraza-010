@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Ali Raza 👋</h1>
 <p align="center">
   <b>Full Stack Developer</b> <br/>
-  | Django • MySQL • HTML • CSS • Bootstrap |
+  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="16" height="16"/>
+  &nbsp;Django • MySQL • HTML • CSS • Bootstrap |
 </p>
 
 <p align="center">
-  <a href="https://alirazacoder.pythonanywhere.com/" target="_blank" style="text-decoration:none;">
+  <a href="https://alirazacoder.pythonanywhere.com/" target="_blank">
     🌐 My Portfolio
   </a>
 </p>
