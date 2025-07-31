@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aliraza-010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliraza-010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
   <br/>
 </p>
 
