@@ -18,6 +18,7 @@
 - 🔙 Backend: Django, Python, MySQL
 - 🎨 Frontend: HTML, CSS, Bootstrap, JavaScript
 - 🚀 Always learning and improving UI/UX, performance & deployment
+- ♟️ Passionate chess player — love strategic thinking both in code and on the board 
 
 ---
 
