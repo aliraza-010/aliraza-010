@@ -36,19 +36,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliraza-010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="75%" />
-  <br/><br/>
-</p>
-
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://alirazacoder.pythonanywhere.com/" target="_blank">🌐 Portfolio</a>
-</p>
