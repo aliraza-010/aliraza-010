@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ali Raza 👋</h1>
 <p align="center">
-  <b>Full Stack Developer</b><br/><br/> |
+  <b>Full Stack Developer</b><br/> |
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="16" height="16" style="vertical-align: middle;" />
   &nbsp;Django &nbsp;•&nbsp;
