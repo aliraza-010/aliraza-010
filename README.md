@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ali Raza 👋</h1>
 <p align="center">
   <b>Full Stack Developer</b> <br/>
-  Django • MySQL • HTML • CSS • Bootstrap
+  | Django • MySQL • HTML • CSS • Bootstrap |
 </p>
 
 <p align="center">
-  <a href="https://alirazacoder.pythonanywhere.com/" target="_blank">
+  <a href="https://alirazacoder.pythonanywhere.com/" target="_blank" style="text-decoration:none;">
     🌐 My Portfolio
   </a>
 </p>
