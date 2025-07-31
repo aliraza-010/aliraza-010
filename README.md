@@ -27,12 +27,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliraza-010&show_icons=true&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 ali@example.com *(replace with real email)*
+
 - 🌐 [Your Portfolio](https://alirazacoder.pythonanywhere.com/)
