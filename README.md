@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <a href="https://alirazacoder.pythonanywhere.com/" target="_blank">
+  <a href="https://aliraza010.com/" target="_blank">
     🌐 My Website
   </a>
 </p>
