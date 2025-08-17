@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://aliraza010.com/" target="_blank">
-    🌐 My Website
+    🌐 Website
   </a>
 </p>
 
